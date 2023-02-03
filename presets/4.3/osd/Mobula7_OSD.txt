@@ -1,0 +1,22 @@
+#$ TITLE: Mobula7 OSD settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: OSD, mob, mobula
+#$ AUTHOR: Saimat
+#$ DESCRIPTION: Mobula7 OSD settings
+
+#$ INCLUDE: presets/4.3/osd/defaults.txt
+
+set osd_vbat_pos = 2369
+set osd_rssi_pos = 2081
+set osd_tim_2_pos = 2103
+set osd_flymode_pos = 2457
+set osd_throttle_pos = 2425
+set osd_current_pos = 2401
+set osd_mah_drawn_pos = 2433
+set osd_craft_name_pos = 2443
+set osd_avg_cell_voltage_pos = 2135
+set osd_flip_arrow_pos = 2282
+set osd_rate_profile_name_pos = 2113
+set osd_stat_max_fft = ON

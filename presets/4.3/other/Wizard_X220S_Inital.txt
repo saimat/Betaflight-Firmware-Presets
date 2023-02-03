@@ -1,0 +1,122 @@
+#$ TITLE:  Eachine Wizard X220S Inital Setup
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OTHER
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: eachine, wizard, x220s, inital
+#$ AUTHOR: Saimat
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: Eachine Wizard X220S Inital Setup
+#$ DESCRIPTION: with CRSF Receiver
+#$ DESCRIPTION: 
+
+
+# start the command batch
+batch start
+
+# reset configuration to default settings
+defaults nosave
+
+board_name OMNIBUSF4SD
+manufacturer_id AIRB
+mcu_id 002e0021374d500420313048
+signature 
+
+# name: X220S
+
+# feature
+feature GPS
+feature TELEMETRY
+feature LED_STRIP
+
+# serial
+serial 0 2 115200 57600 0 115200
+
+# beeper
+beeper -RX_LOST
+beeper -ON_USB
+beeper -CRASH_FLIP
+
+# led
+led 0 0,11::AO:12
+led 1 0,12::AO:12
+led 2 0,13::AO:12
+led 3 0,14::AO:12
+led 4 0,15::AO:12
+led 5 15,11::AO:12
+led 6 15,12::AO:12
+led 7 15,13::AO:12
+led 8 15,14::AO:12
+led 9 15,15::AO:12
+
+# mode_color
+mode_color 6 0 2
+mode_color 6 1 12
+mode_color 7 0 8
+
+# aux
+aux 0 0 0 1700 2100 0 0
+aux 1 1 1 1800 2100 0 0
+aux 2 2 1 1300 1700 0 0
+aux 3 13 3 1600 2100 0 0
+aux 4 26 4 1300 1700 0 0
+aux 5 31 4 1800 2100 0 0
+aux 6 35 2 1400 2100 0 0
+
+# master
+set dyn_notch_count = 1
+set dyn_notch_q = 500
+set acc_calibration = 53,124,-330,1
+set serialrx_provider = CRSF
+set blackbox_sample_rate = 1/2
+set dshot_bidir = ON
+set motor_pwm_protocol = DSHOT300
+set small_angle = 180
+set gps_provider = UBLOX
+set pid_process_denom = 2
+set osd_warn_rssi = ON
+set osd_alt_alarm = 300
+set osd_vbat_pos = 2519
+set osd_rssi_pos = 33
+set osd_link_quality_pos = 2081
+set osd_tim_2_pos = 2103
+set osd_flymode_pos = 2489
+set osd_gps_speed_pos = 2465
+set osd_gps_sats_pos = 2092
+set osd_home_dir_pos = 2099
+set osd_altitude_pos = 2497
+set osd_avg_cell_voltage_pos = 2135
+set osd_flip_arrow_pos = 2282
+set osd_stat_used_mah = OFF
+set osd_stat_max_alt = ON
+set osd_stat_bbox = OFF
+set osd_stat_bb_no = OFF
+set osd_stat_max_g_force = ON
+set debug_mode = GYRO_SCALED
+set gyro_1_align_yaw = 2700
+set name = X220S
+
+#$ OPTION BEGIN (UNCHECKED): CRSF 50Hz Freestyle Preset
+profile 0
+
+# profile 0
+set feedforward_smooth_factor = 0
+set feedforward_jitter_factor = 10
+set feedforward_boost = 5
+#$ OPTION END
+
+
+#$ OPTION BEGIN (UNCHECKED): BN-880 Compass
+# resources
+resource SERIAL_TX 3 NONE
+resource SERIAL_RX 3 NONE
+resource I2C_SCL 2 B10
+resource I2C_SDA 2 B11
+
+# master
+set align_mag = CW270FLIP
+set mag_align_pitch = 1800
+set mag_align_yaw = 2700
+set osd_compass_bar_pos = 2507
+#$ OPTION END

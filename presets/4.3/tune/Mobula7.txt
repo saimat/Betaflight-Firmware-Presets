@@ -1,0 +1,40 @@
+#$ TITLE:  Mobula7 Tune
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: TUNE
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: mob7, mobula, tune, pid
+#$ AUTHOR: Saimat
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: **Mobula7 Tune**
+#$ DESCRIPTION:
+#$ DESCRIPTION:  - V3 Frame
+#$ DESCRIPTION:  - EX1102-KV10000 motors
+#$ DESCRIPTION:  - Betafpv Gemfan props
+
+#$ INCLUDE: presets/4.3/tune/defaults.txt
+#$ INCLUDE: presets/4.3/filters/defaults.txt
+
+profile 0
+
+set iterm_relax_cutoff = 10
+set p_pitch = 70
+set i_pitch = 126
+set d_pitch = 71
+set f_pitch = 187
+set p_roll = 67
+set i_roll = 120
+set d_roll = 62
+set f_roll = 180
+set p_yaw = 67
+set i_yaw = 120
+set f_yaw = 180
+set angle_level_strength = 55
+set horizon_level_strength = 55
+set level_limit = 60
+set d_min_roll = 62
+set d_min_pitch = 71
+set simplified_master_multiplier = 150
+set simplified_d_gain = 140
+set simplified_dmax_gain = 0

@@ -1,0 +1,22 @@
+#$ TITLE: Beeper Deactivate
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OTHER
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: beeper, silent
+#$ AUTHOR: Saimat
+#$ DESCRIPTION:
+#$ DESCRIPTION: Disable Beeper for everything except RX set.
+
+
+# Beeper complete deactivate
+beeper -ALL
+
+#$ OPTION BEGIN (CHECKED): Enable TX AUX Switch
+beeper RX_SET
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): Enable Battery Warning
+beeper BAT_CRIT_LOW
+beeper BAT_LOW
+#$ OPTION END
