@@ -2831,8 +2831,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/SaiMat_Mobula7_tune.txt",
-      "hash": "caf802a729f9d917ec4cbdfb1ea5f7befe778e77842b1be24266ea81744c4bcf",
-      "title": "SaiMat Mobula7 Tune",
+      "hash": "a7fe4636982bb106358e35dd8d0587e49972dd8078257a9774fc880029e437e0",
+      "title": "Mobula7 Tune",
       "firmware_version": [
         "4.3"
       ],
@@ -2849,8 +2849,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/SaiMat_X220S.txt",
-      "hash": "4ebd47ef389297516b8da044cfb53e4e6d3abcb6311e7609b796f47a341b9bac",
-      "title": "SaiMat Eachine Wizzard X220S Tune",
+      "hash": "2e73d33227b64f7bae661b719647fd758ed7f8daf9433b23d258059a28d661fc",
+      "title": "Eachine Wizzard X220S Tune",
       "firmware_version": [
         "4.3"
       ],
