@@ -828,7 +828,7 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/osd/Mobula7_OSD.txt",
+      "fullPath": "presets/4.3/osd/SaiMat_Mobula7_OSD.txt",
       "hash": "f51d80243206edffbd8ed3ec0825fc81af8df86934abad28e9cad3e7bfc227dd",
       "title": "Mobula7 OSD settings",
       "firmware_version": [
@@ -891,23 +891,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/other/Beeper_Deactivate.txt",
-      "hash": "b8894e1c3eac15e8a170d8fad4a807b365498a4ccb5f0d368865968e967eb268",
-      "title": "Beeper Deactivate",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "OTHER",
-      "status": "COMMUNITY",
-      "keywords": [
-        "beeper",
-        "silent"
-      ],
-      "author": "Saimat",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/other/blackbox_disable.txt",
       "hash": "dd841068d2601c35bd38b350349b82cf23bd0185d8ee21f8a51ac1c9636154df",
       "title": "4.3 Blackbox disable settings",
@@ -967,23 +950,6 @@
         "Garban"
       ],
       "author": "Garban",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/Mobula7_Initial_4.3_Setup.txt",
-      "hash": "e0508446ffa383dbd209ce0ee148543a09bb20508d14030b2520144919177509",
-      "title": "Mobula7 Initial 4.3 Setup",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "COMMUNITY",
-      "keywords": [
-        "mob7",
-        "mobula",
-        "setup"
-      ],
-      "author": "Saimat",
       "priority": 0
     },
     {
@@ -1117,6 +1083,58 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/other/SaiMat_Beeper_Deactivate.txt",
+      "hash": "b8894e1c3eac15e8a170d8fad4a807b365498a4ccb5f0d368865968e967eb268",
+      "title": "Beeper Deactivate",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "beeper",
+        "silent"
+      ],
+      "author": "Saimat",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/other/SaiMat_Mobula7_Initial_4.3_Setup.txt",
+      "hash": "e0508446ffa383dbd209ce0ee148543a09bb20508d14030b2520144919177509",
+      "title": "Mobula7 Initial 4.3 Setup",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "mob7",
+        "mobula",
+        "setup"
+      ],
+      "author": "Saimat",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/other/SaiMat_Wizard_X220S_Inital.txt",
+      "hash": "ae88d71038bd2a929d9536d04d0e82f43e1c4782ec0af8bb84162c84b931d44a",
+      "title": "Eachine Wizard X220S Inital Setup",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "eachine",
+        "wizard",
+        "x220s",
+        "inital"
+      ],
+      "author": "Saimat",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/other/Street_League_motor_outputs.txt",
       "hash": "57233ef94c4cc27d3ad2ad546ef7e4d105dd09b27e2230cb9a7885a949e83dc7",
       "title": "Street League Motor Output Limit Settings",
@@ -1225,24 +1243,6 @@
         "3S"
       ],
       "author": "Daniel Appel / Tehllama",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/Wizard_X220S_Inital.txt",
-      "hash": "ae88d71038bd2a929d9536d04d0e82f43e1c4782ec0af8bb84162c84b931d44a",
-      "title": "Eachine Wizard X220S Inital Setup",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "COMMUNITY",
-      "keywords": [
-        "eachine",
-        "wizard",
-        "x220s",
-        "inital"
-      ],
-      "author": "Saimat",
       "priority": 0
     },
     {
@@ -1509,9 +1509,26 @@
       "priority": 10000
     },
     {
-      "fullPath": "presets/4.3/rates/SaiMat_Whoop_Ratest.txt",
-      "hash": "fc40f632493838e3b1dd412f45e4980c617681508392239f2172cf79b118b3a9",
-      "title": "Whoop Rates",
+      "fullPath": "presets/4.3/rates/SaiMat_Whoop_Rates.txt",
+      "hash": "748092353502456059ebd6546a37b93a6c6d5c0fca1e984b68fddf9156e20c2d",
+      "title": "SaiMat Whoop Rates",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "whoop",
+        "rates"
+      ],
+      "author": "Saimat",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.3/rates/SaiMat_Whoop_Rates_Profile_Options.txt",
+      "hash": "10cf167e70bfd98f4d7a7855976aadc845ed9fa295a67ee5364abf50beabc9a8",
+      "title": "SaiMat Whoop Rates with Profile Options",
       "firmware_version": [
         "4.3",
         "4.4"
@@ -1562,23 +1579,6 @@
         "freestyle"
       ],
       "author": "Alex Vanover",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Whoop_Rates_Profile_Options.txt",
-      "hash": "6aa53ac00da7eee9b179da4f51868227e15c9afecbdf2f43b8cc4745a9bf4df3",
-      "title": "Whoop Rates with Profile Options",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "whoop",
-        "rates"
-      ],
-      "author": "Saimat",
       "priority": 10000
     },
     {
@@ -2695,24 +2695,6 @@
       "priority": 1000000000000
     },
     {
-      "fullPath": "presets/4.3/tune/Mobula7.txt",
-      "hash": "a7fe4636982bb106358e35dd8d0587e49972dd8078257a9774fc880029e437e0",
-      "title": "Mobula7 Tune",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "mob7",
-        "mobula",
-        "tune",
-        "pid"
-      ],
-      "author": "Saimat",
-      "priority": 1000000000000
-    },
-    {
       "fullPath": "presets/4.3/tune/mouseFPV_AOS_35_tune_filters.txt",
       "hash": "0dd026ca9f1a4eaa24c758f4c1b3840401a4fb4e6ce3f5ed617fc42da23c352d",
       "title": "AOS 3.5 V1 4s Tune | mouseFPV",
@@ -2846,6 +2828,43 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/tune/SaiMat_Mobula7_tune.txt",
+      "hash": "caf802a729f9d917ec4cbdfb1ea5f7befe778e77842b1be24266ea81744c4bcf",
+      "title": "SaiMat Mobula7 Tune",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "mob7",
+        "mobula",
+        "tune",
+        "pid"
+      ],
+      "author": "Saimat",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/SaiMat_X220S.txt",
+      "hash": "4ebd47ef389297516b8da044cfb53e4e6d3abcb6311e7609b796f47a341b9bac",
+      "title": "SaiMat Eachine Wizzard X220S Tune",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "eachine",
+        "wizard",
+        "x220s",
+        "tune",
+        "pid"
+      ],
+      "author": "Saimat",
+      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/tune/Street_League_LeadFingers.txt",
@@ -3155,25 +3174,6 @@
       "priority": 1000000000000
     },
     {
-      "fullPath": "presets/4.3/tune/X220S.txt",
-      "hash": "8e49780907b625dc8ae0cbdebfc8c4122be1d6b27f75eb4697680e0bf149ea87",
-      "title": "X220S Tune",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "eachine",
-        "wizard",
-        "x220s",
-        "tune",
-        "pid"
-      ],
-      "author": "Saimat",
-      "priority": 1000000000000
-    },
-    {
       "fullPath": "presets/4.3/vtx/Avatar_HD.txt",
       "hash": "9f8ff52bf17a04377528e7b00c50a7aff735ef1d171d31233890f927e1708d48",
       "title": "Avatar HD VTXs",
@@ -3396,23 +3396,6 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.3/vtx/Mobula7_VTX_Table.txt",
-      "hash": "973b85501509d7e7a828f096b21f4828015f20cfbe695adb59ea068a7053ed5b",
-      "title": "Mobula 7 VTX settings",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table"
-      ],
-      "author": "Saimat",
-      "priority": 1000000
-    },
-    {
       "fullPath": "presets/4.3/vtx/NanoHawk.txt",
       "hash": "6c3c7e817d32b3587baa2b706a8d107a3afca2c2661efff650f89a81f6be6671",
       "title": "Emax NanoHawk 1S SmartAudio 2.0 VTX table",
@@ -3480,6 +3463,23 @@
         "tiny tank"
       ],
       "author": "Directory",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/SaiMat_Mobula7_VTX_Table.txt",
+      "hash": "973b85501509d7e7a828f096b21f4828015f20cfbe695adb59ea068a7053ed5b",
+      "title": "Mobula 7 VTX settings",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table"
+      ],
+      "author": "Saimat",
       "priority": 1000000
     },
     {
