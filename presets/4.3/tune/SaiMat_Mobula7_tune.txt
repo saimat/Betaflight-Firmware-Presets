@@ -12,12 +12,24 @@
 #$ DESCRIPTION:  - V3 Frame
 #$ DESCRIPTION:  - EX1102-KV10000 motors
 #$ DESCRIPTION:  - Betafpv Gemfan props
+#$ DESCRIPTION:  - RPM FILTERING ENABLED!
+
 
 #$ INCLUDE: presets/4.3/tune/defaults.txt
 #$ INCLUDE: presets/4.3/filters/defaults.txt
 
+# master
+set dyn_notch_count = 1
+set dyn_notch_q = 500
+set dshot_bidir = ON
+set motor_pwm_protocol = DSHOT300
+set motor_poles = 12
+set vbat_min_cell_voltage = 320
+set vbat_warning_cell_voltage = 330
+
 profile 0
 
+set crash_recovery = ON
 set iterm_relax_cutoff = 10
 set p_pitch = 70
 set i_pitch = 126
@@ -32,7 +44,8 @@ set i_yaw = 120
 set f_yaw = 180
 set angle_level_strength = 55
 set horizon_level_strength = 55
-set level_limit = 60
+set horizon_transition = 100
+set level_limit = 85
 set d_min_roll = 62
 set d_min_pitch = 71
 set simplified_master_multiplier = 150
