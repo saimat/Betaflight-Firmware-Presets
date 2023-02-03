@@ -1,4 +1,4 @@
-#$ TITLE:  Mobula7 Tune
+#$ TITLE:  SaiMat Mobula7 Tune
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: TUNE
 #$ STATUS: COMMUNITY

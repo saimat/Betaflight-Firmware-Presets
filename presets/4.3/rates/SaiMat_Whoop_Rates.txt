@@ -1,4 +1,4 @@
-#$ TITLE: Whoop Rates
+#$ TITLE: SaiMat Whoop Rates
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RATES

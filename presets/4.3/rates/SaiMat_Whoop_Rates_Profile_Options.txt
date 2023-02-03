@@ -1,4 +1,4 @@
-#$ TITLE: Whoop Rates with Profile Options
+#$ TITLE: SaiMat Whoop Rates with Profile Options
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RATES
