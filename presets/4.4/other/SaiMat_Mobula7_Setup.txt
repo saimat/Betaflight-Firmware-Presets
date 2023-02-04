@@ -77,7 +77,7 @@ vtxtable powerlabels 25
 # master
 set dyn_notch_count = 1
 set dyn_notch_q = 500
-set acc_calibration = -60,-60,40,1
+set acc_calibration = 28,0,40,1
 set dshot_bidir = ON
 set motor_poles = 12
 set vbat_min_cell_voltage = 320

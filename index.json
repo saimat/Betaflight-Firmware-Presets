@@ -3684,7 +3684,7 @@
     },
     {
       "fullPath": "presets/4.4/other/SaiMat_Mobula7_Initial_4.4_Setup.txt",
-      "hash": "a992e1178d601364e29291d1e2dbe018ea23a4f96982e30580f856dbefc757d4",
+      "hash": "4f6310eb850f9fc717b3ae3de8abf03e50e55684853ba03f3df78f274e1a4b4c",
       "title": "Mobula7 Initial 4.4 Setup",
       "firmware_version": [
         "4.4"
@@ -3701,7 +3701,7 @@
     },
     {
       "fullPath": "presets/4.4/other/SaiMat_Mobula7_Setup.txt",
-      "hash": "262a56551743a1bbf3e9d6947d8dd1aa318b330e2216c8fc859db7fe8e7c90ff",
+      "hash": "8ca4312a4bc9c8fa7df80dfd044d1cb7a4c224a85ef5ba9c251a56c7667c7860",
       "title": "Mobula7 Setup",
       "firmware_version": [
         "4.4"
