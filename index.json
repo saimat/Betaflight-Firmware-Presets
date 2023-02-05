@@ -1510,7 +1510,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/SaiMat_Whoop_Rates.txt",
-      "hash": "748092353502456059ebd6546a37b93a6c6d5c0fca1e984b68fddf9156e20c2d",
+      "hash": "9f0818383aca6ba634cda94e794362223dc8aca2d047ff302d410061fbd91158",
       "title": "SaiMat Whoop Rates",
       "firmware_version": [
         "4.3",
@@ -3684,7 +3684,7 @@
     },
     {
       "fullPath": "presets/4.4/other/SaiMat_Mobula7_Initial_4.4_Setup.txt",
-      "hash": "4f6310eb850f9fc717b3ae3de8abf03e50e55684853ba03f3df78f274e1a4b4c",
+      "hash": "a07dadb32fc30e0de0a7de666cd5ec033928b75ae0092fa918a9c812096f80e6",
       "title": "Mobula7 Initial 4.4 Setup",
       "firmware_version": [
         "4.4"
@@ -3701,7 +3701,7 @@
     },
     {
       "fullPath": "presets/4.4/other/SaiMat_Mobula7_Setup.txt",
-      "hash": "8ca4312a4bc9c8fa7df80dfd044d1cb7a4c224a85ef5ba9c251a56c7667c7860",
+      "hash": "a3568df069dfe570835f176514198043d399e0caa24461ae3ff4804552392e4c",
       "title": "Mobula7 Setup",
       "firmware_version": [
         "4.4"

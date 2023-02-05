@@ -5,7 +5,9 @@
 #$ KEYWORDS: mob7, mobula, setup
 #$ AUTHOR: Saimat
 #$ DESCRIPTION: Mobula7 initial BTFL 4.4 Setup without PID tune and rates.
-#$ DESCRIPTION: RPM Filtering On
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION: - RPM Filtering ON
+#$ DESCRIPTION: - Reverse Props
 
 
 ## start the command batch

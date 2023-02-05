@@ -4,7 +4,11 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: mob7, mobula, setup
 #$ AUTHOR: Saimat
-#$ DESCRIPTION: Mobula7 initial BTFL 4.4 Setup, RPM Filtering On.
+#$ DESCRIPTION: Mobula7 initial BTFL 4.4 Setup
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION: - RPM Filtering ON
+#$ DESCRIPTION: - Reverse Props
+#$ DESCRIPTION: <br>
 #$ DESCRIPTION: Tune and Rates can be applied optional.
 
 
@@ -126,6 +130,10 @@ set f_roll = 191
 set p_yaw = 71
 set i_yaw = 127
 set f_yaw = 191
+set angle_level_strength = 60
+set horizon_level_strength = 60
+set horizon_transition = 100
+set level_limit = 85
 set d_min_roll = 67
 set d_min_pitch = 76
 set simplified_master_multiplier = 160
