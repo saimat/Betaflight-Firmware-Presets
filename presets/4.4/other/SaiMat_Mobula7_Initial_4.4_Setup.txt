@@ -4,6 +4,9 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: mob7, mobula, setup
 #$ AUTHOR: Saimat
+
+#$ PARSER: MARKED
+
 #$ DESCRIPTION: Mobula7 initial BTFL 4.4 Setup without PID tune and rates.
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>

@@ -4,6 +4,9 @@
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: whoop, rates
+
+#$ PARSER: MARKED
+
 #$ AUTHOR: Saimat
 #$ DESCRIPTION: SaiMat Whoop rates
 #$ DESCRIPTION:
