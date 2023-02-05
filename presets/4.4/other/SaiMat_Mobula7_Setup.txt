@@ -4,9 +4,11 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: mob7, mobula, setup
 #$ AUTHOR: Saimat
+
+#$ PARSER: MARKED
+
 #$ DESCRIPTION: Mobula7 initial BTFL 4.4 Setup
 #$ DESCRIPTION:
-#$ DESCRIPTION: <br>
 #$ DESCRIPTION:
 #$ DESCRIPTION: - RPM Filtering ON
 #$ DESCRIPTION: - Reverse Props
