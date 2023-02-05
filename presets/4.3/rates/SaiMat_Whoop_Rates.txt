@@ -6,13 +6,17 @@
 #$ KEYWORDS: whoop, rates
 #$ AUTHOR: Saimat
 #$ DESCRIPTION: SaiMat Whoop rates
+#$ DESCRIPTION:
 #$ DESCRIPTION: <br>
+#$ DESCRIPTION:
 #$ DESCRIPTION:  - 670 degrees/sec for roll, pitch and yaw
 #$ DESCRIPTION:  - Center Sensitivity 70
 #$ DESCRIPTION:  - No Expo
 #$ DESCRIPTION:  - Throttle scale 85% for Rateprofile 1
 #$ DESCRIPTION:  - No Throttle scale for Rateprofile 2
+#$ DESCRIPTION:
 #$ DESCRIPTION: <br>
+#$ DESCRIPTION:
 #$ DESCRIPTION: Will be applied to Rateprofile 1 and Rateprofile 2.
 
 profile 0
