@@ -136,7 +136,8 @@
       "3.5",
       "4.2",
       "4.3",
-      "4.4"
+      "4.4",
+      "4.5"
     ],
     "category": [
       "FILTERS",
@@ -152,12 +153,14 @@
     "author": [
       "Alex Campbell (Chief)",
       "Alex Vanover",
+      "antonig",
       "AyyyKayyy - Anthony Knight",
       "benlumley",
       "Betaflight",
       "BMSThomas",
       "ctzsnooze",
       "Daniel Appel / Tehllama",
+      "Davide FPV (Davide Angeletti)",
       "Directory",
       "Evan Turner (Headsup)",
       "Feisar",
@@ -166,6 +169,7 @@
       "Garban",
       "IllusionFpv",
       "Ivan Efimov (Limon)",
+      "Jakub Espandr (FlyCamCzech)",
       "jappyjan",
       "Joshua Bardwell",
       "Justice - Gary Kent",
@@ -175,9 +179,13 @@
       "MinChan Kim",
       "mouseFPV",
       "MrAlucardDante",
+      "Neil Marek (Grower)",
       "NemesisXB",
+      "QuadMcFly (Ryan Harrell)",
       "Saimat",
       "Sjoer van der Ploeg",
+      "Stingers Swarm",
+      "Sugar K",
       "sugarK",
       "SupaflyFPV",
       "UAV Tech (Mark Spatz)"
@@ -185,13 +193,21 @@
     "keywords": [
       "\\\\GAS",
       "03",
+      "10\"",
+      "100 euro fpv",
+      "1000Hz",
+      "100euro",
+      "10in",
       "111hz",
       "150Hz",
       "15Hz",
       "166Hz",
+      "1ms",
       "1S",
+      "2.5in",
       "2.5W",
       "2022",
+      "2023",
       "20ms",
       "2500mW",
       "250Hz",
@@ -203,6 +219,8 @@
       "3\"",
       "3in",
       "3S",
+      "4 inch",
+      "4\"",
       "4in",
       "4S",
       "5 In",
@@ -213,13 +231,15 @@
       "533",
       "55Hz",
       "5in",
-      "6 Inch",
+      "6 inch",
+      "6.67 ms",
       "6\"",
+      "633",
       "65mm",
       "666Hz",
       "6in",
       "6S",
-      "7 Inch",
+      "7 inch",
       "7\"",
       "7in",
       "8\"",
@@ -228,6 +248,7 @@
       "9\"",
       "9in",
       "9ms",
+      "ACCESS",
       "acro",
       "Acrobaix",
       "actual",
@@ -235,8 +256,10 @@
       "air unit",
       "AlexFPV",
       "analog",
+      "antonig",
       "AOS",
       "AOS T3",
+      "Apex",
       "Audio TBS",
       "AutoSelect",
       "aux",
@@ -257,6 +280,7 @@
       "Cgo",
       "Chief",
       "cinelifter",
+      "CineLog",
       "cinematic",
       "cinewhoop",
       "clean",
@@ -267,6 +291,9 @@
       "CRSF",
       "ctzsnooze",
       "CTZsoonze",
+      "custom commands",
+      "davide",
+      "davide fpv",
       "DDC",
       "default",
       "defaults",
@@ -312,6 +339,7 @@
       "gyroflow",
       "HD",
       "HD video",
+      "HDOSD",
       "HDzero",
       "Headsup",
       "HighKV",
@@ -320,9 +348,11 @@
       "IllusionFpv",
       "immersion",
       "immersionRC",
+      "ImpulseRC",
       "inital",
       "IRC",
       "IRC Tramp",
+      "juicy",
       "justice",
       "karate",
       "KarateBrot",
@@ -338,7 +368,9 @@
       "log",
       "logging",
       "Long Range",
+      "loRanger",
       "mamba",
+      "Marek",
       "mck",
       "meteor",
       "MinChan",
@@ -348,8 +380,9 @@
       "mobula",
       "mode",
       "modes",
-      "Motor",
       "mouse fpv",
+      "mr nice",
+      "mrnice",
       "msp",
       "MSP VTX",
       "msp-osd",
@@ -359,6 +392,9 @@
       "names",
       "nano",
       "nanohawk",
+      "Neil",
+      "nice",
+      "nmea",
       "no rpm",
       "noisy",
       "normal",
@@ -368,7 +404,6 @@
       "OpenRacer",
       "OpenVTx",
       "OSD",
-      "output limit",
       "partial",
       "Passthrough",
       "pid",
@@ -378,6 +413,7 @@
       "Pure Race",
       "quaddiction",
       "quick",
+      "R9",
       "race",
       "race rates ctzsnooze actual",
       "race v1",
@@ -385,6 +421,7 @@
       "Race250",
       "Race500",
       "racing",
+      "ranging",
       "rates",
       "RC",
       "rc link",
@@ -406,26 +443,32 @@
       "sa2.0",
       "sa20",
       "Safe",
+      "sbang",
       "sbus",
       "SBUS fast",
       "setup",
       "shames",
+      "shitpilot",
       "silent",
       "sliders",
       "Smart",
       "smart audio",
       "smartaudio",
       "smoothing",
+      "snappy",
       "Solid250",
       "some",
       "Spec",
+      "spec racing",
       "speedybee",
       "stats",
+      "StingersSwarm",
       "Street",
       "Street League",
       "StreetLeague",
       "suagrK",
       "sub 250",
+      "sugar k",
       "sugarK",
       "Supafly",
       "SupaflyFPV",
@@ -438,7 +481,7 @@
       "tbs sa",
       "Team Black Sheep",
       "Texas",
-      "Throttle cap",
+      "thicc",
       "tiny",
       "tiny tank",
       "TinyTrainer",
@@ -750,11 +793,12 @@
     },
     {
       "fullPath": "presets/4.3/filters/karate_array.txt",
-      "hash": "faf6fc71b3248d86bccb759cc653fa3a784dc2616f7dbfc4b1285f836992fe56",
+      "hash": "a5f23209a7bb9fd009fb6a83b456d4661119c1b58ffc4086c678b390319e1afb",
       "title": "the Karate array",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "FILTERS",
       "status": "OFFICIAL",
@@ -1135,30 +1179,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/other/Street_League_motor_outputs.txt",
-      "hash": "57233ef94c4cc27d3ad2ad546ef7e4d105dd09b27e2230cb9a7885a949e83dc7",
-      "title": "Street League Motor Output Limit Settings",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "Motor",
-        "output limit",
-        "Street League",
-        "StreetLeague",
-        "Street",
-        "League",
-        "LeadFingers",
-        "Throttle cap"
-      ],
-      "author": "LeadFingers",
-      "force_options_review": true,
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/other/Tehllama_5in_1900-2250KV_FreedomSpec_3S-5S-6S_Race_TUNE_OTHER.txt",
       "hash": "af6c747c1fd882529c91cae1dab44dc6612bc612e26b66bb83da348523a19344",
       "title": "5in FreedomSpec Race Tune 1900-2250KV on 3S (Spec) and 5S/6S (Open)",
@@ -1246,12 +1266,35 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/rates/533.txt",
+      "hash": "e92d66aba44c7137dd58a8a300db4aa78ffeeaab900a577b8a0523e4045d059c",
+      "title": "533 racing rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "racing",
+        "Headsup",
+        "533",
+        "five33",
+        "rates",
+        "MultiGP"
+      ],
+      "author": "Evan Turner (Headsup)",
+      "priority": 10000
+    },
+    {
       "fullPath": "presets/4.3/rates/Bardwell.txt",
-      "hash": "7c4cadcce2243e35b482e4c8e8d34943384ba693b1323843b51484503550dfc3",
+      "hash": "e6b2324edc8d7b670e4b36c77f9f95f81ca1b73284c8a226542da33e83db84ec",
       "title": "Joshua Bardwell rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1265,11 +1308,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/BMSThomas.txt",
-      "hash": "72813b60f5841eea61bfcda0f31d21dc18eb89832e18a34f4471b8a013af9815",
+      "hash": "5c293a69b25d62dfc615d8f773883f644b2e473def874b79a7aab506499dbc19",
       "title": "BMSThomas racing/freestyle rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1284,11 +1328,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/CGo.txt",
-      "hash": "2a2551bf40bcc97ee19a8af1f2c0f23ff4a038ff5e17d054ee2f9043ec2dbd89",
+      "hash": "2191ad344bfdd62e62995077238163bfcd38ad1eb1390c4fbdbb48ffb92c478c",
       "title": "CGo race rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1304,11 +1349,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/Chief.txt",
-      "hash": "7f9d2b2429b6ab754a94e66fe764f5c19c294dbc33b00b4fa5fb03f2e4b196ee",
+      "hash": "75f5e1166714f90eb8fdff13a2e0ff05933aebcc6014822774c3cc5ae498f537",
       "title": "Chief race/freestyle rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1325,11 +1371,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/ctzsnooze_race.txt",
-      "hash": "741e70595d59bc32ecbe993108281d8ba797e5d5b6298901b9edd42af09da6a3",
+      "hash": "ea30ad86e7f69464ec4705987c5d2ee46a7779ea0530efd1815d43dd695b2452",
       "title": "race rates by ctzsnooze",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "OFFICIAL",
@@ -1341,11 +1388,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/defaults.txt",
-      "hash": "3eb0eebc69558dcb5de2e985850026a0ca4b0634601f4b66c0f4ea36b2e17f91",
+      "hash": "b5ca502f48325e26d254127b4bc431415d127092910ac6053b00087ef5000ade",
       "title": "Default rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "OFFICIAL",
@@ -1359,11 +1407,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/Directory_freestyle.txt",
-      "hash": "72c18b285ba36e861699d463b1270f13ada5da860588cbed4af6cecad240e256",
+      "hash": "b28e7534dfce8e48edb00cf64f8738bab34140574d4d0c4a7dbb57af6d2a3983",
       "title": "Directory freestyle rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1375,11 +1424,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/Feisar_freestyle.txt",
-      "hash": "64d78d3cdcae6a8feb88d6059ebc07ce1e7581b0de7251e2d08c16ec846932bf",
+      "hash": "db928d717ac972c5a934d94cefde6385d289498d830149258290ad21183aed4a",
       "title": "Feisar freestyle rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1393,11 +1443,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/Garban_race.txt",
-      "hash": "f4f6c7ff6e7230f40aee6fe1d153d723ffadfd629d62c1d77408607efcda1a27",
+      "hash": "790aff6447c3b73afa3998413c407f303fc0e04e45449f54987104f28d0fafb4",
       "title": "Garban Official race rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1412,12 +1463,13 @@
       "priority": 10000
     },
     {
-      "fullPath": "presets/4.3/rates/Headsup533.txt",
-      "hash": "bb53714f8457515e77798083084dea249404acf5bae5f93bcc464a532409a6fe",
+      "fullPath": "presets/4.3/rates/Headsup.txt",
+      "hash": "01dae2ccd90e9d3568ce7b762dc768a0f4b79189e2e2ad064d76bb76a6bccb58",
       "title": "Headsup racing rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1425,6 +1477,7 @@
         "racing",
         "Headsup",
         "533",
+        "633",
         "five33",
         "rates",
         "MultiGP"
@@ -1434,11 +1487,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/illusionfpv_freestyle.txt",
-      "hash": "250f62e33e80db6375f2763de4f5bf9e3a362c4697d279cd73b1866d28c9b1cd",
+      "hash": "78018d0bf3f590196a091954db05fa11fbb6078d4f3c059263b2cf631e620441",
       "title": "freestyle rates by IllusionFpv",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "OFFICIAL",
@@ -1453,11 +1507,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/limon.txt",
-      "hash": "dc1c394b8e78eb836ac734dacfc22a7427355bc3bf5c69a00365b2bf85b9f441",
+      "hash": "cb90500f13b9fe6f60699a42f52cc4d1961d7463c550f54f6377cf1255e8b8d4",
       "title": "Limon racing rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "OFFICIAL",
@@ -1475,11 +1530,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/MinChan.txt",
-      "hash": "499fbef88e9ff121ba20ab3656654cfc55367c7d6ae8899067a9f33da5d015ea",
+      "hash": "6b15f060d7b86f40a1a7f98bb002388ff6b0d0ea606d6eed9ae4a07a43607d18",
       "title": "MinChan Kim racing rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1494,11 +1550,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/mouseFreestyle.txt",
-      "hash": "4bd3216213c976136024a2ec4cb3611966032bd6cd5873744d23b2551a2bdf09",
+      "hash": "3b3e1e0c76ca4e99057bf76e2da372c9dd6a78a0b63b9035ec3091cfae902523",
       "title": "mouseFPV Freestyle Rates",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1506,6 +1563,32 @@
         "freestyle"
       ],
       "author": "mouseFPV",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.3/rates/Nice.txt",
+      "hash": "57b63aba69df351213cf628fc6d7b4a4d19ba85fa03bef2adabfff72d3f77503",
+      "title": "Rates by picky Mr Nice (Grower)",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "racing",
+        "nice",
+        "mr nice",
+        "mrnice",
+        "shitpilot",
+        "Neil",
+        "Marek",
+        "freestyle",
+        "cinematic",
+        "expert"
+      ],
+      "author": "Neil Marek (Grower)",
       "priority": 10000
     },
     {
@@ -1543,12 +1626,53 @@
       "priority": 10000
     },
     {
+      "fullPath": "presets/4.3/rates/StingersSwarm.txt",
+      "hash": "9f120800b9c857dd3b9768e8aea11e13e8bae7755c5beb1bec0eee26c805c59c",
+      "title": "Stingers Swarm freestyle rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "youtube",
+        "StingersSwarm",
+        "freestyle"
+      ],
+      "author": "Stingers Swarm",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.3/rates/SugarK.txt",
+      "hash": "cbde746d04bcf903b13b9e20f3f195feba08a8a641df550c6b4ace1551b687e4",
+      "title": "Sugar k rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "racing",
+        "rates",
+        "MultiGP",
+        "quaddiction",
+        "sugar k"
+      ],
+      "author": "sugarK",
+      "priority": 10000
+    },
+    {
       "fullPath": "presets/4.3/rates/UAV_tech.txt",
-      "hash": "8284063db148240f3956e840c85ae4d22de25679c9705992de3f0f1b29dc7708",
+      "hash": "0747e063c44df8947de9c9134928348efad899e76006ae3f7106286e54d4cd40",
       "title": "UAV Tech Rates (w/ Cinematic/Whoop Options)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1563,10 +1687,12 @@
     },
     {
       "fullPath": "presets/4.3/rates/Vanover.txt",
-      "hash": "a967f62ea2403b1cae5036cdc2e08e5964d4722640e7578048b95ab356658cc6",
+      "hash": "e4a5fd2cb9b6ac42511606a1e87340ab01d6d1dd78933bc1a96965e5c1188f26",
       "title": "Vanover racing/freestyle rates",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4",
+        "4.5"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -1583,10 +1709,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/defaults.txt",
-      "hash": "dd9a493fb69537b8b495fbfa6f39477d69dba0c2538a2f2de68aa5a469616f05",
+      "hash": "4b040f24c3f3ead0edae874314c02f1ad3030176876c3089c8c089f5e361eb41",
       "title": "Reset RC related settings",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1605,11 +1733,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/DJI_Normal.txt",
-      "hash": "cb13a7911b75e12843b47aba4a0e8541d4ea40ee867e08cd0c4399120370f517",
+      "hash": "d261a9fa2f3dc3a14e94db3dd30d1f4fc9e3fbdab3fd78e19c7c1eedb0521c41",
       "title": "DJI Normal",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1625,11 +1754,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/DJI_SBUS_Fast.txt",
-      "hash": "0939d74e9be57494ce29fcafbc7577c941f5cfbf34e4655f144063316d409e02",
+      "hash": "b75f760e56474290beb0f9502305d56358f71d5c2832cb86c7e29ff576662be4",
       "title": "DJI SBUS FAST",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1645,11 +1775,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/elrs_150hz.txt",
-      "hash": "5aaa44c727f95f4d5ab31ad1374cd882cfef365c7ed83d2fc88d2c3fc8ad8b8e",
+      "hash": "6dd1ff263d73d873e6522488bfdf9c6ee59db638c391bb855ea4c7abee09d254",
       "title": "ExpressLRS 150Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1668,11 +1799,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/elrs_250hz.txt",
-      "hash": "459d815401af6a39e9536568564bb2fd8745f6d6b57a9abda8937e6f7409903f",
+      "hash": "11feaf5c5defdf532c33babcefb569ee12fb0588eaf94afd6eadb57e0683aa24",
       "title": "ExpressLRS 250Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1691,11 +1823,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/elrs_500hz.txt",
-      "hash": "9dfd1c1ab41dfd6a741867188d3fe66ac32873c60e0605b5f36066360e732fcf",
+      "hash": "49b8461f4bfe6e593ff987b35bedaac2124d9e2c3e896af50054e851cda1a1eb",
       "title": "ExpressLRS 500Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1714,11 +1847,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/elrs_50hz.txt",
-      "hash": "02c473aa2d528c195cf2bd0a99aae1b90259a735a7f077328d07cf1c628bc153",
+      "hash": "4faff8ac9785b00aff84e9d4c4f84deedebd65f918dcc05c29034bdc1f206eba",
       "title": "ExpressLRS 50Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1738,11 +1872,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/frsky_sbus_fport.txt",
-      "hash": "14a2f0528c1916e45526527f90d2067e1e77f91a3397cb7c20dac2e17d92a1b3",
+      "hash": "38fa39e47349098296f9cc051dd93ab320d29fb776490e714fd94952324c3a70",
       "title": "FrSky Sbus or FPort",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1761,12 +1896,36 @@
       "priority": 10000000000
     },
     {
+      "fullPath": "presets/4.3/rc_link/generic/1000hz_race.txt",
+      "hash": "62fb692e29f5613e66509b0f7e1606c34323fd9b5f6a9ab9267c38bd3d879c32",
+      "title": "Generic 1000z Race",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "1000Hz",
+        "1ms",
+        "rc",
+        "rx",
+        "link",
+        "smoothing",
+        "ELRS"
+      ],
+      "author": "Sugar K",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/rc_link/generic/150hz_cinematic.txt",
-      "hash": "41528f843b18cecfd7676f313850c7cefbbfde6933db7fdfd53e2132c975c563",
+      "hash": "682d89b234fd030dbbfccce952939b777b4a7e7915abd5da68da09a72fc8f1d8",
       "title": "Generic 150Hz Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1782,11 +1941,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/150hz_freestyle.txt",
-      "hash": "7c9ea82aaec95ef6a4b51b92807c0f272922246a18085d37d8ffda621bc0079e",
+      "hash": "993b654a55ad2c7888642c6619fb10ab39f2f9b7f053a5817e0edbf81dfff570",
       "title": "Generic 150Hz Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1802,11 +1962,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/150hz_hd_freestyle.txt",
-      "hash": "42635c2d72764cccc694c899322a800eb67d1e2aed851f6ffd6c544e86e1613d",
+      "hash": "ea36ae7ab9f262f21d8ee52871a780dbd52e9390c1f3ef06f77b632298979d93",
       "title": "Generic 150Hz HD Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1822,11 +1983,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/150hz_race.txt",
-      "hash": "bb1fd588855ead67cd4aa819af2fa669f64c0fe47907c97fc9790cd07bd59291",
+      "hash": "0f49abead97c8f97b2d44628b797d2cf7c4dcc0c360068c2d2b7d08637454c4d",
       "title": "Generic 150Hz Race",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1842,11 +2004,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/150hz_ultra_cinematic.txt",
-      "hash": "b55b2e9c449a610de26c553629661a17f1dc09fd558989313b1e9bd598fb193d",
+      "hash": "fd800c639f78d801ab161b474e8b180aa046a425112898c0ab6e08a22d8ab3b9",
       "title": "Generic 150Hz Ultra Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1862,11 +2025,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/250hz_cinematic.txt",
-      "hash": "8fb32262addb86b065aaf58c39f2b10bd23de992d53783ed0efffd2e9fcb1450",
+      "hash": "2deba1b5fb9c14e99378bb2f735f0f409f369f03c3127abc87ff80d0d7e4d3ab",
       "title": "Generic 250Hz Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1882,11 +2046,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/250hz_freestyle.txt",
-      "hash": "0397808f17324f9b47508638f437100f4366e5cfaa2555410cd2029ebedb0fc1",
+      "hash": "b51b813d91291ee3fa902a803449d1ab3cfb794d815c4e94fede92b9c927eeda",
       "title": "Generic 250Hz Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1902,11 +2067,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/250hz_hd_freestyle.txt",
-      "hash": "44d991d2e09f22a7242db95c4fd34917c9497e6542242f3d1c8b54c4a1f5059a",
+      "hash": "5024bb70e38a11b071fad8c2642c89f66321f8cc3597b91700e9b21ed9cd3690",
       "title": "Generic 250Hz HD Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1922,11 +2088,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/250hz_race.txt",
-      "hash": "836357a4504fe73e81b9c6a889ed185a5e6eacce5e0fcc318611ec290a3eeb40",
+      "hash": "9e68f8fd2b483ace1e7c81ae43dc95a959198ffc0adda3dd54a8bf13fbe97f7b",
       "title": "Generic 250Hz Race",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1942,11 +2109,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/250hz_ultra_cinematic.txt",
-      "hash": "ac4d82c012bb7d380c98222a4d9ff54962de7a87f86ed1e45ab04f4aa29dd01f",
+      "hash": "f46e8efbd5fc2ee9a31db1756ba2f7149264fbfdd73da09e3341e13cf88e95ae",
       "title": "Generic 250Hz Ultra Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1962,11 +2130,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/500hz_cinematic.txt",
-      "hash": "b1d91f81c5575343024b264f4ad00ab422a4a551da5c056afc6b7ce7657bdb8c",
+      "hash": "e70fcea6ef349854e69a6cc17feec5a06546f68b0ac83c7cc6ee4522349068a3",
       "title": "Generic 500Hz Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -1983,11 +2152,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/500hz_freestyle.txt",
-      "hash": "01bb65fdfece19eed6088403785f016d2b5eb1a9a89306f4e49a34814355ef61",
+      "hash": "627719a39bac0e6eccebd9240637c7be1f2230d9cd4a52b3a58cd69a4df2597a",
       "title": "Generic 500Hz Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2004,11 +2174,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/500hz_hd_freestyle.txt",
-      "hash": "dff6ad4296d2e42feba4248f8976193d11cf64b1b430cf8b985a6cfaa935d785",
+      "hash": "856fcb22bd9d50a1774ea1ebf4f4bf623979ca65fb835901fb3015a828bb917d",
       "title": "Generic 500Hz HD Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2025,11 +2196,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/500hz_race.txt",
-      "hash": "56219dda77c4aa2f1c4d5f0030a74c67d5da73695e3402ff0c2ab7217fce24c2",
+      "hash": "3a4c0b7a50c7bf0356bc297c93ec6625d21da9539188349e9ec52ab3f2841993",
       "title": "Generic 500Hz Race",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2046,11 +2218,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/500hz_ultra_cinematic.txt",
-      "hash": "935cc96dc131770c6770b7a31667daca5e7751283a7413dad497cb26897045ab",
+      "hash": "c48624fe3a5ff2e14937c5a9bf53ec1108866303d3f35ac32f2fa5478ca9a765",
       "title": "Generic 500Hz Ultra Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2067,11 +2240,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/50hz_cinematic.txt",
-      "hash": "31a068b280ab0beddc038c499ad1c1701185dcacd12f4e24a6ca1c1a1b41b3ac",
+      "hash": "e2cd379e3df5a1b9aa7467cf1df8180aabffe8be24d6bf5bd8d787cd34a81583",
       "title": "Generic 50Hz Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2088,11 +2262,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/50hz_freestyle.txt",
-      "hash": "15c47f7ce0b9129e8d2758ced1736c1ecfc6d225e305ef937ea20efea0f4358f",
+      "hash": "1cf11bfb895e18f0bf7e3947d5aaaa8e28b074d1c71b9bd46e3989b155752d92",
       "title": "Generic 50Hz Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2109,11 +2284,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/50hz_hd_freestyle.txt",
-      "hash": "08c6f1d9f4b45c9d5abd5bfc6c12cc8b458c67355aa96c386316c5d6065c97ad",
+      "hash": "ea64e85913b4e18fe395c9efcaa5ed5555f55bac6d175c08c6672f8a4a5e84f8",
       "title": "Generic 50Hz HD Freestyle",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2130,11 +2306,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/50hz_race.txt",
-      "hash": "8c03a9dee35a95031abc9bd884c1d37c870d28ea733cb2f7735f4538e6bbcf07",
+      "hash": "a2f6431f9c11ef8e635e8e23d5acfc5f40f9ba282894f8d80e36fa8fe92acf62",
       "title": "Generic 50Hz Race",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2151,11 +2328,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/50hz_ultra_cinematic.txt",
-      "hash": "4df997249c48be3878a4c8030b7e47668cddaf74c2619ff84001d7d09c6ddcc3",
+      "hash": "90d8c30816f209531c602f261f12d964cd4befd1ab9c48739d4184ea4dbe972c",
       "title": "Generic 50Hz Ultra Cinematic",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2172,11 +2350,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/ghost/long_range.txt",
-      "hash": "d91208028b683edc8a6f0c6d8782791e99fe20094f9d51eeb5fd79b4112f5feb",
+      "hash": "a7a50f51831d6fa70b3f9e391faee51501e1d15c44b572fce614e866d42d764c",
       "title": "IRC Ghost (Long Range)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2198,11 +2377,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/ghost/normal.txt",
-      "hash": "942ac260c98fe68bcf99afd5d06e0b1c7dbff2a8decc06886e4bd99e0d1ebd73",
+      "hash": "cd7b09e86e72dbbfe3406442bc1338c3ae24626346a485d46468e67161c37e33",
       "title": "IRC Ghost (Mode: Normal)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2225,11 +2405,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/ghost/pure_race.txt",
-      "hash": "2753b7b17816b61c78e103a6f195cc7552f236a974d87b203578d8a02590f82a",
+      "hash": "848c8d97edc501ff7945200654cb8e4a7b120cba93cea921463235a659e05720",
       "title": "IRC Ghost (Pure Race)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2252,11 +2433,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/ghost/race.txt",
-      "hash": "fa9da1b07aaf305c77bece5ae2172cbcda3f5942c520dd37aecae9c60ddb0f03",
+      "hash": "64ef214f0a461ea8155f01cf40f0b0b21e1ecb359eb183cf0dab626a3869ff85",
       "title": "IRC Ghost (Mode: Race)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2279,11 +2461,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/ghost/race250.txt",
-      "hash": "80292f2f0d5252fad215e0bd31139974c702c1054330a7248ded5d7ba96309a3",
+      "hash": "37ffb68e90dbe86cf76b9ab6194f108c6d4de88e3532e8f76f54f1f7d2ef21d0",
       "title": "IRC Ghost (Race250)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2306,11 +2489,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/ghost/race500.txt",
-      "hash": "d9d89cf88e744008f590f7fc128257a43f8c4e83a7feeadcf392f465646c10c1",
+      "hash": "b7695ba22b473d00b4fe2536fd8b9b069277cd9066f512e35bf5293d093325d4",
       "title": "IRC Ghost (Race500)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2333,11 +2517,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/ghost/solid250.txt",
-      "hash": "447b9ec20d3420938629d9c4933682aab5c9ac9bf3294f38e1814c4b0c20861a",
+      "hash": "5e5203617a2e44400110f33381a2334e309dfe6f3a7de564fd6f59eb9afc7bba",
       "title": "IRC Ghost (Solid250)",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2360,11 +2545,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/redpine_666hz.txt",
-      "hash": "c55664addd75a71a409eb05c6bf91fbe65c84470b3abe93ffd1e2e5e48e2a70d",
+      "hash": "c48757a0ee5fe1761f028b1c9e7e7307da96682d234aaaf776977d681bf34a76",
       "title": "Redpine 666Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2380,11 +2566,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/redpine_mpm.txt",
-      "hash": "3289f2c04811e109022a671168b85cab1a884f5a22690678a41f819b33ad424e",
+      "hash": "287f6ad909042365ac8de7565d952bf5cb7b037b7698b33a3432b18a514612a0",
       "title": "Redpine MPM",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2418,11 +2605,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/tbs/crossfire_150hz.txt",
-      "hash": "e456a2010e44fdb60451376a459161753abb53b4786e138528e0e31434aed27e",
+      "hash": "64b8c65529f46343c1458d8d0b63137e37f0a76b1debe70e356363722f7afd66",
       "title": "TBS Crossfire 150Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2442,11 +2630,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/tbs/crossfire_50hz.txt",
-      "hash": "50728820731cad1e79c60d95190d5071947dcc924a5b2c7bafcf79edaa232cd7",
+      "hash": "26471c399eb2f1a977a89e4a2363770ac209a9b20878b63a41214c3fbd4f1f9e",
       "title": "TBS Crossfire 50Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2466,11 +2655,12 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/tbs/tracer_250hz.txt",
-      "hash": "ec12554f667716724d84f93d03e65fec34925153a23c9d7ef74bba26e10fa19c",
+      "hash": "7b1390172978234cf351edcf49b03903962d893c3a85a536cf304309cda6ff64",
       "title": "TBS Tracer 250Hz",
       "firmware_version": [
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
@@ -2696,13 +2886,13 @@
     },
     {
       "fullPath": "presets/4.3/tune/mouseFPV_AOS_35_tune_filters.txt",
-      "hash": "0dd026ca9f1a4eaa24c758f4c1b3840401a4fb4e6ce3f5ed617fc42da23c352d",
+      "hash": "6873908b46d271e204c9f78acf4892ef1ec78eb6d1c4637354cafbaa8579f73f",
       "title": "AOS 3.5 V1 4s Tune | mouseFPV",
       "firmware_version": [
         "4.3"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "AOS",
         "4s",
@@ -2715,13 +2905,13 @@
     },
     {
       "fullPath": "presets/4.3/tune/mouseFPV_Digipick_braced.txt",
-      "hash": "16897a988ba9317a6b02beb81b3c9b5042aa4e3eee00187e37c54738502980e4",
+      "hash": "dc5f0a91884f4b4d70cc0b9696f921024f2d0b21241c68dd666a2b7469447c8a",
       "title": "Braced Toothpick/Digipick 3s/4s | mouseFPV",
       "firmware_version": [
         "4.3"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle TP3",
         "Digipick",
@@ -2738,13 +2928,13 @@
     },
     {
       "fullPath": "presets/4.3/tune/mouseFPV_FFVCycle_Incisor_PT5_tune_filters.txt",
-      "hash": "843d79c8635d2ed5eddab912bb7aeff174faf6619321c110f19b5dc37930e884",
+      "hash": "2557231920b0c8ebd932477bb59f714beec9039d97cc50975c46dd61920b70ad",
       "title": "FPVCycle Incisor/Prototype 5 6s Tune | mouseFPV",
       "firmware_version": [
         "4.3"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle",
         "5 inch",
@@ -2760,13 +2950,13 @@
     },
     {
       "fullPath": "presets/4.3/tune/mouseFPV_FPVCycle_Sonicare_tune_filters.txt",
-      "hash": "687d0579012fe8e2bd5bb1c5a6eb4f7ef9a9f2b02566a32eb304c6566b19ce89",
+      "hash": "46bfe57f0ce647c32042d9f7d15803324e8d7da3e1d30b1d655fd22623bb284c",
       "title": "FPVCycle Sonicare 6s Tune | mouseFPV",
       "firmware_version": [
         "4.3"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle"
       ],
@@ -2776,13 +2966,13 @@
     },
     {
       "fullPath": "presets/4.3/tune/mouseFPV_toothpick3_3s.txt",
-      "hash": "385d6c89bd737aaf3c56ff5312443b41e4a11d9887b8b23d47d1cf420a04e5d2",
+      "hash": "9a8f721f3e1334bdbba6133ee9da0c23bfa9cfd457e2e2bf49e4a52cbe4013fa",
       "title": "FPVCycle Toothpick 3 3s | mouseFPV",
       "firmware_version": [
         "4.3"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle TP3",
         "Toothpick",
@@ -2888,8 +3078,31 @@
       "priority": 1000000000000
     },
     {
+      "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_3_4_Inch_EasyTune.txt",
+      "hash": "6095fdcff6b273154cd04a66205dcc60fd1105fbd10f45ea88d09c619001137c",
+      "title": "SupaflyFPV Freestyle 3/4 Inch",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "Supafly",
+        "SupaflyFPV",
+        "4S",
+        "6S",
+        "Freestyle",
+        "3 inch",
+        "4 inch",
+        "3\"",
+        "4\""
+      ],
+      "author": "SupaflyFPV",
+      "priority": 1000000000000
+    },
+    {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_5_Inch_EasyTune.txt",
-      "hash": "e11eff91a7ec38053f58d146d2db90ee4d7f1aea39b6de5336616298095cb3b7",
+      "hash": "485f2830ca8b3462ebb89d38921c4297b660a29212cf708338004d599d96134e",
       "title": "SupaflyFPV Freestyle 5 Inch",
       "firmware_version": [
         "4.3"
@@ -2910,7 +3123,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_6_and_EasyTune.txt",
-      "hash": "1c8a3f90e2a53138e52a97147ea9ac89f479ba0958fbb527174ac4e53d712913",
+      "hash": "78c734d869eb39cf6a22bb2052d43fdc3446b5feca33f62e67fb75ca73c7b3dc",
       "title": "SupaflyFPV Freestyle 6 Inch",
       "firmware_version": [
         "4.3"
@@ -2921,15 +3134,15 @@
         "Supafly",
         "SupaflyFPV",
         "Freestyle",
-        "6\"",
-        "6 Inch"
+        "6 inch",
+        "6\""
       ],
       "author": "SupaflyFPV",
       "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_7_Inch_EasyTune.txt",
-      "hash": "476f1fcc6bf39ad883a85c31ebbc5788fecb72703a7f929e8b52fe40b96110c7",
+      "hash": "c4c0441183cd683ee9ddb780c206dc57ca3e133b9600e0f580ea853be13a6de2",
       "title": "SupaflyFPV Freestyle 7 Inch",
       "firmware_version": [
         "4.3"
@@ -2940,8 +3153,8 @@
         "Supafly",
         "SupaflyFPV",
         "Freestyle",
-        "7\"",
-        "7 Inch"
+        "7 inch",
+        "7\""
       ],
       "author": "SupaflyFPV",
       "priority": 1000000000000
@@ -3113,7 +3326,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/UAV_tech_Whoop.txt",
-      "hash": "bb4f0552015b1e5109dac54610a82759bceba8f84fbd28909bd342095cf5347f",
+      "hash": "4cbb21d88227f3e69a9802d9ad4844e867e684dedb25d006fbf733d38fb3abe8",
       "title": "UAV Tech - Whoop (1S & 2S)",
       "firmware_version": [
         "4.3"
@@ -3128,7 +3341,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/whoop_ayyykayyy.txt",
-      "hash": "18a0a21b675f4c2e4719bae8d448684e58b51981f657755fe4c2f95e7eaea2c7",
+      "hash": "89b6040c5c67f9653fd14320f192878c437adb149d15ee43f8a752fe2d737963",
       "title": "Whoop race tune by AyyyKayyy",
       "firmware_version": [
         "4.3"
@@ -3152,7 +3365,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/whoop_justice.txt",
-      "hash": "ab0e286c3e4b33e11878a2b5b752001be1a4862c1859854f38822ee15ad5b570",
+      "hash": "c5b38f50eef8d1b3b8288c87ef2eaa042f2c78bc589de5590e5441ebc20843ce",
       "title": "Whoop race tune by Justice",
       "firmware_version": [
         "4.3"
@@ -3196,10 +3409,12 @@
     },
     {
       "fullPath": "presets/4.3/vtx/defaults.txt",
-      "hash": "f771542d93f15f993d39d97f9004ede104ba7dfebff45f68863aa25f30275388",
+      "hash": "d8bb4a7a15e3059ecd843607204ba9d1833c989044a175fe357d94d99417abb8",
       "title": "Default 4.3 VTX settings",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "OFFICIAL",
@@ -3214,10 +3429,12 @@
     },
     {
       "fullPath": "presets/4.3/vtx/defaults_vtx_tables.txt",
-      "hash": "ca7751007ea115e4aef9cfc8051832205100ab4d0be45b9694d506f193cdb1d6",
+      "hash": "77b535aa6e95af50997a23c1c31db536677a83ccdfdf76e724d3522e90ac6fbf",
       "title": "Default 4.3 VTX table settings",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "OFFICIAL",
@@ -3233,12 +3450,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/diatone_mamba_ultra_1000.txt",
-      "hash": "ed370c198631b2babebaf4324994099a936a7c379de9b1ec1172ff1bbc2c9227",
+      "hash": "a5fd094a30b8c7e44d88fc5acc61743b0c77d2bdeef7957adb30ad6e1e686a8e",
       "title": "Diatone Mamba Ultra 1000 VTX Tables",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3280,12 +3498,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Eachine_Nano_V2.txt",
-      "hash": "4ee1df7675ba8a19c4ed55d120cf1b030806d07e1cd1cb9f45aeaf6c3d9539d1",
+      "hash": "5ac593eb1b74dd1b8482923b91056d0d1cda2d38e92e4590116e45df939decc4",
       "title": "Eachine Nano V2 VTX Table",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3308,12 +3527,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/eachine_vtx.txt",
-      "hash": "8eb8bb496b58c14cae40618d145fbf10e843db55c6911ac3357fcdbceab17ce4",
+      "hash": "9b6d35ce9a14900e5cf67b0f39a7dda3b6f918f56e6699ec46b5b5887108e3c9",
       "title": "Eachine VTX Tables",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3343,12 +3563,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Foxeer_Reaper_Extreme.txt",
-      "hash": "57bc213f75ec121dd21c49763664d32aa7ad9e3501427072fec17894bfe763bf",
+      "hash": "ea84d479e6d744f03ccc0cdb3a4b4b03e35415ef8880e1f5b24ca378dbcfe148",
       "title": "Foxeer 5.8G Reaper Extreme 2.5W",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3369,7 +3590,7 @@
     },
     {
       "fullPath": "presets/4.3/vtx/HDZero.txt",
-      "hash": "802f5dab99316d7b0c22bd4813817eb7a207d3c401adfc6a90cd3966b64fd12f",
+      "hash": "37a652666691aecde28cdabf472678cc91e24845ed56a47a082608b878d49b0c",
       "title": "HDZero VTXs",
       "firmware_version": [
         "4.2",
@@ -3393,16 +3614,18 @@
         "karatebrot"
       ],
       "author": "sugarK",
+      "force_options_review": true,
       "priority": 1000000
     },
     {
       "fullPath": "presets/4.3/vtx/NanoHawk.txt",
-      "hash": "6c3c7e817d32b3587baa2b706a8d107a3afca2c2661efff650f89a81f6be6671",
+      "hash": "d600660e4a5113714735bc5fe1fdbd6675781051034a0e58e5a550699ef6d39c",
       "title": "Emax NanoHawk 1S SmartAudio 2.0 VTX table",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3420,12 +3643,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/OpenVTx.txt",
-      "hash": "842b0d977ce44f3a0c37ff6bf9614058aae32d16554014607d2fff4cad2a1ef0",
+      "hash": "9fe7fe73f5323eaf0b1a346b0db9152d1ec65655a583a7aff0f7914946c330a0",
       "title": "OpenVTx",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3443,12 +3667,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/rush_sa2.1_vtx_tables.txt",
-      "hash": "3014fe2d8a90669292cce908f7234c181116a32a9569e3a983c9cefa4a5166bc",
+      "hash": "a066dc246fb5a68e67059af0b5ea91158b59c5b234f196389859d8de672423f0",
       "title": "Rush Tiny Tank, Tank Racing, Tank Ultimate Plus/Mini/II, and Tank Solo VTX tables",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3484,12 +3709,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/speedybee_tx800.txt",
-      "hash": "6b81ca0f614ffad45ac2138ca2e146e06bdc5237e6320299a39e252d783faf03",
+      "hash": "bd9c34506239894537ee31a0904d4af46894595c3dc79c47ae2e80ee466f6d0e",
       "title": "SpeedyBee TX800 VTX Tables",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3504,12 +3730,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/tramp_nano_and_HV.txt",
-      "hash": "b19e9a9bcfb3b172a92b34bc23ac9dac03ce3b98c400adaace9da78974648881",
+      "hash": "64eb806abbaa6f5398595524be9d512a3ccf77679b930c06081532ee703c5e4b",
       "title": "IRC Tramp Nano and HV",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3526,12 +3753,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_EVO_5G8_HV_SA.txt",
-      "hash": "c06e2bb7b83c59c0c097d724ba7ca318a70c80f2ef8880424419b5217b65e350",
+      "hash": "643028c250e8738a5f6a53eecc92d9fa66c3789dd9ec7cf4fdfd000f8c6d1caf",
       "title": "TBS Unify EVO 5G8 (HV) - SA 2.1",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3550,12 +3778,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_Pro32_HV_SA2_1.txt",
-      "hash": "7e6a01be7635a90d71603870f1cf6917b522285eac21dbf89e3b28f514c02668",
+      "hash": "acd71d0d8f3983c55d3237e4af16ead53cd02a58a86edb1fa0d239b4aef8a345",
       "title": "TBS Unify Pro32 HV SA 2.1",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3573,12 +3802,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_Pro32_Nano_SA2_1.txt",
-      "hash": "5cd96ef3198c56a095887f66b34920635167597b06ef9af1d908481e73034b72",
+      "hash": "60b3ac338951fab38a41e004ebbc7e61c2f1e82d9b44d845fc893b2898df7d3a",
       "title": "TBS Unify Pro32 Nano - SA 2.1",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3596,12 +3826,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_Pro_HV_800mw_Unify_Pro_V3_SA_2_0.txt",
-      "hash": "2e5f3f402c6976e0f48c6526f95f3a2acdf03f8f87b5a619bf4f509a1cab8323",
+      "hash": "a4f967663db86bcf6f36ff6be13635661ea5036b7a90f4eabe030cc6a13b4e2f",
       "title": "TBS Unify Pro HV 800mw / TBS Unify Pro V3 (5v) SA 2.0",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3618,12 +3849,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_Pro_HV_Race_Not_Race_V2_SA2_0.txt",
-      "hash": "627fa1347f11d14cc220b51349da90e0d4908deec83cd05311d8347c5ba06c58",
+      "hash": "d30cf465ac0a9aabddea6ba9946ffa62e4425a81e95357c7989c080453b831d6",
       "title": "TBS Unify Pro HV Race (Not Race V2) SA 2.0",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3640,12 +3872,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_Pro_HV_Race_V2 _SA2_1.txt",
-      "hash": "323c042886f144040ac2d7bbb959b490a62157276be195abd0253c51830e076e",
+      "hash": "bbf08e3b40d308c57453e96eefd6913c4f70c8c6ebad9b9d47be2c854e52cb92",
       "title": "TBS Unify Pro HV Race (Not Race V2) - SA 2.0",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3662,12 +3895,13 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Unify_Pro_Nano_SA2_0_lite.txt",
-      "hash": "d962f3eb01da8e77384397c4716ca776b144433cc5a6559f1d80e1a86dfc0c07",
+      "hash": "ca77370bae4ab65f31b4ae1a1424dea5a073ac9ac739809dc2f1dbb96cf80f6b",
       "title": "TBS Unify Pro Nano (Not Pro32 Nano) SA 2.0 lite",
       "firmware_version": [
         "4.2",
         "4.3",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "VTX",
       "status": "COMMUNITY",
@@ -3681,6 +3915,86 @@
       ],
       "author": "sugarK",
       "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.4/leds/quaddiction_tinytrainer.txt",
+      "hash": "2b2bede40d142402b6c9c3b0bdeb996c0b2215761aab4e787eee8188118521b7",
+      "title": "Quaddiction TinyTrainer LED settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "LEDS",
+      "status": "OFFICIAL",
+      "keywords": [
+        "leds",
+        "533",
+        "five33",
+        "quaddiction",
+        "sugarK",
+        "spec",
+        "spec racing",
+        "tinytrainer",
+        "tiny"
+      ],
+      "author": "sugarK",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/osd/defaults.txt",
+      "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
+      "title": "Default 4.4 OSD settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/osd/QuadMcFly_DJI_HD_OSD.txt",
+      "hash": "1bdc587fd4223c8526a7954c0b44e7bfc98a8b9d556de729d24376d06e29f3be",
+      "title": "QuadMcFly - DJI HD OSD",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "DJI",
+        "HD",
+        "HDOSD"
+      ],
+      "author": "QuadMcFly (Ryan Harrell)",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/other/100-euro-fpv-tune.txt",
+      "hash": "5e2b1d2fd1e9dea96eeaece8649eacc03e81b6815a95a3330969a42d37b2b0b8",
+      "title": "100-EURO-FPV",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "6S",
+        "race",
+        "100 euro fpv",
+        "5 inch",
+        "5\"",
+        "antonig",
+        "2023",
+        "multigp",
+        "100euro"
+      ],
+      "author": "antonig",
+      "priority": 0
     },
     {
       "fullPath": "presets/4.4/other/SaiMat_Mobula7_Initial_4.4_Setup.txt",
@@ -3714,29 +4028,6 @@
         "setup"
       ],
       "author": "Saimat",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.4/other/Street_League_motor_outputs.txt",
-      "hash": "818ab0552ce3e055e2b3157551b5bc1eb31bd6c1a39ec54fb748f2cb378023e8",
-      "title": "Street League Motor Output Limit Settings",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "OTHER",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "Motor",
-        "output limit",
-        "Street League",
-        "StreetLeague",
-        "Street",
-        "League",
-        "LeadFingers",
-        "Throttle cap"
-      ],
-      "author": "LeadFingers",
-      "force_options_review": true,
       "priority": 0
     },
     {
@@ -3798,6 +4089,74 @@
       "author": "Daniel Appel / Tehllama",
       "force_options_review": true,
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/rates/DavideFPVFreeStyle.txt",
+      "hash": "fd4151af99e2f2db4566a50591076c2e5082382fd3578095aee048fde1951251",
+      "title": "Davide FPV Rates for Freestyle with Cinematic Option",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "davide fpv",
+        "davide",
+        "rates",
+        "freestyle",
+        "hd",
+        "cinematic"
+      ],
+      "author": "Davide FPV (Davide Angeletti)",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.4/rates/QuadMcFly_Freestyle.txt",
+      "hash": "e0d274ae006c7bedddb3de4e2e6e70d7ca4138cc2a29e99acad14afffe601494",
+      "title": "QuadMcFly Rates - Snappy Freestyle",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates",
+        "freestyle",
+        "snappy",
+        "juicy",
+        "sbang"
+      ],
+      "author": "QuadMcFly (Ryan Harrell)",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.4/rc_link/FrSky R9 (6.67ms).txt",
+      "hash": "ad1905c4d84bf8edd56ffe71a4a1df55652534dc9458c29b048b8c98d548b7b5",
+      "title": "FrSky R9 (6.67 ms)",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RC_LINK",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "FrSky",
+        "R9",
+        "6.67 ms",
+        "ACCESS",
+        "FPORT",
+        "rc",
+        "rx",
+        "link"
+      ],
+      "author": "Jakub Espandr (FlyCamCzech)",
+      "force_options_review": true,
+      "priority": 10000000000
     },
     {
       "fullPath": "presets/4.4/rc_link/reset_to_defaults.txt",
@@ -3882,13 +4241,14 @@
     },
     {
       "fullPath": "presets/4.4/tune/fpvian_basher_freestyle.txt",
-      "hash": "64565eeb9c74fc71284577e1e44b272c2279eb8641e3403f7019d57ff220e619",
+      "hash": "379c582da5309047e55b44ae094138ab77b0333fb4c8c55e86b9d5e0b8f37f26",
       "title": "Basher Freestyle 6S 5\" by FPVian",
       "firmware_version": [
-        "4.3"
+        "4.4",
+        "4.5"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "basher",
         "freestyle",
@@ -3929,7 +4289,7 @@
     },
     {
       "fullPath": "presets/4.4/tune/karate/karate_brushless_whoop.txt",
-      "hash": "f9ceb1406b895481e2308017d84b4f25993f4fef21b5aff955a3cd52e588ce64",
+      "hash": "107b213e96977c35f94618c6228c7989db84d19131ff3e0719d18577832b26e5",
       "title": "Karate brushless whoop",
       "firmware_version": [
         "4.4"
@@ -3952,7 +4312,7 @@
     },
     {
       "fullPath": "presets/4.4/tune/karate/karate_freestyle_5_inch.txt",
-      "hash": "10832d62fb35dd3eed0c20ba2751df7ddc856f5543eec0981098de629a050240",
+      "hash": "351c049f3e65136d44472a6ce0d32b8fb1a5044f3dc7dc86eb785b928ed026db",
       "title": "Freestyle 5\" Karate Style",
       "firmware_version": [
         "4.4"
@@ -3975,7 +4335,7 @@
     },
     {
       "fullPath": "presets/4.4/tune/karate/karate_race.txt",
-      "hash": "1525da4f6a78af9d884de8765a356735c47651037ef19cb4ec4a13e3f4ff4a89",
+      "hash": "9d322ea082807ee0a02a914c9a2d375185d7685b28225897d392db013e1565e4",
       "title": "Karate Race 6s 5\"",
       "firmware_version": [
         "4.4"
@@ -3999,13 +4359,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/karate/karate_race_lite.txt",
-      "hash": "38500350860b05a20b67fba95f66764c57a6af6dc7faca2ddca255699c7891b6",
+      "hash": "b7513a4910fa102c846c1f535855014d3ee4cc65aba45aa44cb378aac703eaf0",
       "title": "Karate 'Viper Lite' Race  5\"",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "COMMUNITY",
+      "status": "OFFICIAL",
       "keywords": [
         "karate",
         "race",
@@ -4025,8 +4385,8 @@
     },
     {
       "fullPath": "presets/4.4/tune/karate/tiny_karate.txt",
-      "hash": "2bc0126717a9c8ecb64f9066285680111aca04b702ea473b04594b665af59e09",
-      "title": "533 TinyTrainer Karate",
+      "hash": "4e0110787d5304082bf900cc9385249607d733a723e54a93fe9d2ebd92d7b60b",
+      "title": "533 TinyTrainer “spec” Karate",
       "firmware_version": [
         "4.4"
       ],
@@ -4074,13 +4434,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_AOS_35_tune_filters.txt",
-      "hash": "4c4e6364ad0c3b0f09749b522671b2eee28a995cb0f91dc062a56b2375cce58c",
+      "hash": "be7d760872b99568192cba01c8e0175c59a50d74f8d82a98fc975398974633fd",
       "title": "AOS 3.5 V1 4s Tune | mouseFPV",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "AOS",
         "4s",
@@ -4093,13 +4453,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_Digipick_braced.txt",
-      "hash": "091f9d21ee8b1c5854743918cb1453390253b8550b266d669fe4f56186a9a6c5",
+      "hash": "293fc19e8651996f0d1d3c0c26f8622828ada206211d9c2f18f0b136f1f1bdc8",
       "title": "Braced Toothpick/Digipick 3s/4s | mouseFPV",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle TP3",
         "Digipick",
@@ -4116,13 +4476,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_FFVCycle_Incisor_PT5_tune_filters.txt",
-      "hash": "a14311501d08a291a2db1c19be804e0ed40849e877ca857617d2d98629bf6e12",
+      "hash": "5b334a9e4495c522069414c1bf7d91c9b996dac25ecd750ec6b2d839d6e0bed4",
       "title": "FPVCycle Incisor/Prototype 5 6s Tune | mouseFPV",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle",
         "5 inch",
@@ -4138,13 +4498,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_FPVCycle_Sonicare_tune_filters.txt",
-      "hash": "e21a8ed4a1d79080a71ee98943f00aee2e5b2f62d284e9abfdb8b32ae40771ad",
+      "hash": "5efcc6c3efd67f2a94383d9d73ef34498daa3cc779e9ad2e0fbba75751a257bb",
       "title": "FPVCycle Sonicare 6s Tune | mouseFPV",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle"
       ],
@@ -4153,14 +4513,34 @@
       "priority": 1000000000000
     },
     {
-      "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_toothpick3_3s.txt",
-      "hash": "b5f98419c43c578806a7aa1d7c5b5d169f7bcfde0d26093b9a31d593b41d46a1",
-      "title": "FPVCycle Toothpick 3 3s | mouseFPV",
+      "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_ImpuseRC_Apex_tune.txt",
+      "hash": "aacea6dd698c1a77ccbe4057e73d6d4391b2444ca08346b11717ca944ebab886",
+      "title": "ImpulseRC Apex 5\" | mouseFPV",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
       "status": "EXPERIMENTAL",
+      "keywords": [
+        "Apex",
+        "ImpulseRC",
+        "5\"",
+        "5in",
+        "5 inch"
+      ],
+      "author": "mouseFPV",
+      "force_options_review": true,
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_toothpick3_3s.txt",
+      "hash": "a60e270590017ffb0c66737809e6a4b00516c59f83c454f10f08a6179a24980b",
+      "title": "FPVCycle Toothpick 3 3s | mouseFPV",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle TP3",
         "Toothpick",
@@ -4169,6 +4549,25 @@
       ],
       "author": "mouseFPV",
       "force_options_review": true,
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.4/tune/quadmcfly/QuadMcFly_5_Inch_Freestyle.txt",
+      "hash": "f71d0cae4a6388e53a1711e4c4e355cee147851562d395cbeadfca5aeadafe99",
+      "title": "QuadMcFly - 5\" Freestyle with GoPro (Mid-Weight)",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "4S",
+        "6S",
+        "5in",
+        "5\"",
+        "freestyle"
+      ],
+      "author": "QuadMcFly (Ryan Harrell)",
       "priority": 1000000000000
     },
     {
@@ -4193,14 +4592,39 @@
       "priority": 1000000000000
     },
     {
-      "fullPath": "presets/4.4/tune/supafly_fpv/SupaflyFPV_Freestyle_5_Inch_EasyTune.txt",
-      "hash": "dc5217aba744d702f05e5e55694ae31c51243498176c621a54b7556847be7610",
-      "title": "SupaflyFPV Freestyle 5 Inch",
+      "fullPath": "presets/4.4/tune/supafly_fpv/SupaflyFPV_Freestyle_3_4_Inch_EasyTune.txt",
+      "hash": "0d33d4281627b5f1ea399c7d6561d679eb82b39e1adc42059c0ede94cb8c9f31",
+      "title": "SupaflyFPV Freestyle 3/4 Inch",
       "firmware_version": [
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
+      "keywords": [
+        "Supafly",
+        "SupaflyFPV",
+        "4S",
+        "6S",
+        "Freestyle",
+        "3 inch",
+        "4 inch",
+        "3\"",
+        "4\""
+      ],
+      "author": "SupaflyFPV",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.4/tune/supafly_fpv/SupaflyFPV_Freestyle_5_Inch_EasyTune.txt",
+      "hash": "180ca558d3ed3785752420fb9f38c63942543898c97111c80352d260d2094b39",
+      "title": "SupaflyFPV Freestyle 5 Inch",
+      "firmware_version": [
+        "4.4",
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
       "keywords": [
         "Supafly",
         "SupaflyFPV",
@@ -4215,51 +4639,72 @@
     },
     {
       "fullPath": "presets/4.4/tune/supafly_fpv/SupaflyFPV_Freestyle_6_and_EasyTune.txt",
-      "hash": "a420781503b6a324df674f6016fd2ab92ca9bfc36107ddc64bffe51bd3ecb03a",
+      "hash": "f4f18524bbf3a7de9465f3a303aabb89bd636b1911a6c632057d27daa779ef00",
       "title": "SupaflyFPV Freestyle 6 Inch",
       "firmware_version": [
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
       "keywords": [
         "Supafly",
         "SupaflyFPV",
         "Freestyle",
-        "6\"",
-        "6 Inch"
+        "6 inch",
+        "6\""
       ],
       "author": "SupaflyFPV",
       "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.4/tune/supafly_fpv/SupaflyFPV_Freestyle_7_Inch_EasyTune.txt",
-      "hash": "9576dbb05690fd790be88d959ff53185974b2986150e8ea7d7c34cc5f0365288",
+      "hash": "b811c01dc0918fd69022385098ddce01d9086863bcd2b46b31641a3acab9d302",
       "title": "SupaflyFPV Freestyle 7 Inch",
       "firmware_version": [
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
       "keywords": [
         "Supafly",
         "SupaflyFPV",
         "Freestyle",
-        "7\"",
-        "7 Inch"
+        "7 inch",
+        "7\""
       ],
       "author": "SupaflyFPV",
       "priority": 1000000000000
     },
     {
-      "fullPath": "presets/4.4/tune/uav_tech/UAV_tech_5in.txt",
-      "hash": "38205bf367af8274f6996a7f681f01505bb5339abe5af22210b6e3b5ed74f321",
-      "title": "UAV Tech - 5in (590-630g AUW)",
+      "fullPath": "presets/4.4/tune/uav_tech/UAV_tech_10in.txt",
+      "hash": "93a2a385e6b950731bb05ecbcca680867911c8979c3e54921944580a04ad097c",
+      "title": "UAV Tech - 10\" (1400-1700g | 31xx motors)",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
+      "keywords": [
+        "4S",
+        "6S",
+        "10in",
+        "10\"",
+        "freestyle"
+      ],
+      "author": "UAV Tech (Mark Spatz)",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.4/tune/uav_tech/UAV_tech_5in_Freestyle_575-650.txt",
+      "hash": "2650e76779b27efd14d0c2af7fcf96a8646fb11ff280cdbeea9c90f591616744",
+      "title": "UAV Tech - 5\" Freestyle withOUT GoPro (575-650g AUW)",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
       "keywords": [
         "4S",
         "6S",
@@ -4271,9 +4716,48 @@
       "priority": 1000000000000
     },
     {
+      "fullPath": "presets/4.4/tune/uav_tech/UAV_tech_5in_Freestyle_650-750.txt",
+      "hash": "b740ad519ab4a7479eac5f1a3cdcd16962ae7762b537a20006795900dce23430",
+      "title": "UAV Tech - 5\" Freestyle with GoPro (650-750g AUW)",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "4S",
+        "6S",
+        "5in",
+        "5\"",
+        "freestyle"
+      ],
+      "author": "UAV Tech (Mark Spatz)",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.4/tune/uav_tech/UAV_tech_5in_Race_500-575.txt",
+      "hash": "88bdbfa2b3a0dbe61218baa37c77bf020e22e72eba0d77d23b11cbf4ac996dd6",
+      "title": "UAV Tech - 5\" Race (500-550g AUW)",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "4S",
+        "6S",
+        "5in",
+        "5\"",
+        "race",
+        "racing"
+      ],
+      "author": "UAV Tech (Mark Spatz)",
+      "priority": 1000000000000
+    },
+    {
       "fullPath": "presets/4.4/tune/uav_tech/UAV_tech_6-7in.txt",
-      "hash": "58a74f67fd61d2f8e2e588a9736498dcc9721f0cac59273311e9c1efc47e7708",
-      "title": "UAV Tech - 6-7in (~700g AUW)",
+      "hash": "7cd78cf41fbfc662e27e5ae87dae337ef27cd8dc5f19bdfb8525f0b620a840a6",
+      "title": "UAV Tech - 6\"/7\" (750-1000g AUW)",
       "firmware_version": [
         "4.4"
       ],
@@ -4294,13 +4778,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/uav_tech/UAV_tech_8-9in.txt",
-      "hash": "f45120715acc4714cb9817ba7e1115c15228af7222180e1963e926b87a2dc62d",
-      "title": "UAV Tech - 8-9in (~750g AUW)",
+      "hash": "cd966577162d64efdfb8064a2669228447329b33dbc39f2542e8a3d0c87e5d8a",
+      "title": "UAV Tech - 8\"/9\" (1000-1400 AUW)",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "4S",
         "6S",
@@ -4315,14 +4799,14 @@
       "priority": 1000000000000
     },
     {
-      "fullPath": "presets/4.4/tune/uav_tech/UAV_tech_8-9in_Cinelifter.txt",
-      "hash": "0d2d68ef47dece0f6e5f54c67d3412cbaa48d6870f7f2633a919ee02818ea383",
-      "title": "UAV Tech - 8-9in Cinelifter (>2,000g AUW)",
+      "fullPath": "presets/4.4/tune/uav_tech/UAV_tech_Cinelifter_8-9in.txt",
+      "hash": "96992f2c2e7c7329a42033b23f718ad989d3b72868b0c5b55749d9692863c4b1",
+      "title": "UAV Tech - Cinelifter (8\"/9\" >2,000g AUW)",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "6S",
         "8S",
@@ -4336,14 +4820,29 @@
       "priority": 1000000000000
     },
     {
+      "fullPath": "presets/4.4/tune/uav_tech/UAV_tech_Cinelog.txt",
+      "hash": "596659adcd009b8329b91ea487a4270d137caf384e46d082a0db0938db43b4e7",
+      "title": "UAV Tech - Cinelog (250-300g AUW)",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "CineLog"
+      ],
+      "author": "UAV Tech (Mark Spatz)",
+      "priority": 1000000000000
+    },
+    {
       "fullPath": "presets/4.4/tune/uav_tech/UAV_tech_Cinewhoop.txt",
-      "hash": "cfe99f093a1f07b3160793fcd2c06d26b7b91018788e3b5f3565f4fef0f8246b",
+      "hash": "ffb8bcd9b2784aa7f99cf9c446cfada27e76e6477a8542ef9801bfb4183d1d80",
       "title": "UAV Tech - Cinewhoop",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "cinewhoop"
       ],
@@ -4351,20 +4850,22 @@
       "priority": 1000000000000
     },
     {
-      "fullPath": "presets/4.4/tune/uav_tech/UAV_tech_Toothpic.txt",
-      "hash": "8ed47902466b35fe4bfc35954c0847955d5b2f27730bda700953cbd508abb63f",
-      "title": "UAV Tech - Toothpic (2in to 4in)",
+      "fullPath": "presets/4.4/tune/uav_tech/UAV_tech_Micro.txt",
+      "hash": "1fa48b3d3108abb881e128a934ebd9899edfff44b1bd0ca9504fa9ec51fb8c56",
+      "title": "UAV Tech - Micro (2\" to 4\")",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "2S",
+        "3S",
         "4S",
         "6S",
         "toothpic",
         "2in",
+        "2.5in",
         "3in",
         "3.5in",
         "4in"
@@ -4374,13 +4875,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/uav_tech/UAV_tech_Whoop.txt",
-      "hash": "b0cd23c486979a5bca5c93c123a4c30ac5611ca1e2790b4718f642105a80f8c7",
+      "hash": "37293e1963552a422246571eb6d1acafca59e25b73c0737b3229c6698f4bbf79",
       "title": "UAV Tech - Whoop (1S & 2S)",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "whoop"
       ],
@@ -4389,7 +4890,7 @@
     },
     {
       "fullPath": "presets/4.4/tune/whoop_ayyykayyy.txt",
-      "hash": "d7db22ebc8070ebe4b66192ae58c816679f33e3791a1c6bd9fa5cc9512eb1d67",
+      "hash": "be54eb2b4c9d09927a10644b35bb7295f3952f191bf4e2fdfe1a2586738fa4ed",
       "title": "Whoop race tune by AyyyKayyy",
       "firmware_version": [
         "4.4"
@@ -4413,7 +4914,7 @@
     },
     {
       "fullPath": "presets/4.4/tune/whoop_justice.txt",
-      "hash": "baa7c836f430eee60d5a788f7e8ac8b9e45d908b78c6533a4581cc0594d3ee79",
+      "hash": "d224d0443f0c0f14e08ab45ff9603fcc501eb60825e74e9752bd25d1729ab8d7",
       "title": "Whoop race tune by Justice",
       "firmware_version": [
         "4.4"
@@ -4436,7 +4937,7 @@
     },
     {
       "fullPath": "presets/4.4/vtx/DJI_FPV-WTF_MSP-OSD.txt",
-      "hash": "0bf01a93340826921756a44a006fbd46ff1fca8be2212a6d91d180ff1f3bbcdd",
+      "hash": "8b8d1da5c13f99ee0916e3242ca921f777dbcc82eda83228b3eba56baf7b4111",
       "title": "OSD for Fpv.wtf, DJI O3, Avatar HD",
       "firmware_version": [
         "4.4"
@@ -4459,14 +4960,15 @@
         "wtfos",
         "msp-osd",
         "displayport",
-        "msp"
+        "msp",
+        "sugarK"
       ],
       "author": "benlumley",
       "priority": 1000000
     },
     {
       "fullPath": "presets/4.4/vtx/HDZero.txt",
-      "hash": "e843067b3c45c9472f2a16c9aee6f2b4d56d9144258ed597c28a24376a695020",
+      "hash": "6fd93edb82e8e31e4089e38aeedd8f5656374820fb28d7751ea218d9fec3fbcc",
       "title": "HDZero VTXs",
       "firmware_version": [
         "4.4"
@@ -4489,6 +4991,233 @@
         "MSP VTX"
       ],
       "author": "sugarK",
+      "force_options_review": true,
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/other/custom_nmea.txt",
+      "hash": "10931aba011ca232171d37cdacdc287d5f261a8de12bb2f75bb9eef3f9c7b3bc",
+      "title": "Custom NMEA commands",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "gps",
+        "custom commands",
+        "nmea"
+      ],
+      "author": "KMfpv",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/reset_gps.txt",
+      "hash": "48ed02ca3989ba69a4d5924ae5e41519364286923203d792c7c7359d91964049",
+      "title": "Reset GPS settings",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "GPS"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/tune/defaults.txt",
+      "hash": "ecc8a3fc34041fe76c3f552181c84595905902fe07bd1418e4f8b221724182da",
+      "title": "Betaflight 4.5 TUNE defaults",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/tune/karate/karate_brushless_whoop.txt",
+      "hash": "9870dd13a8fddf113ffab78e6a9df88407db181afc939037a22afd4f777a142b",
+      "title": "Karate brushless whoop",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "karate",
+        "2s",
+        "1S",
+        "race",
+        "brushless",
+        "whoop",
+        "65mm",
+        "sugarK",
+        "KarateBrot"
+      ],
+      "author": "sugarK",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.5/tune/karate/karate_freestyle_5_inch.txt",
+      "hash": "77bd25b4b2d701dc98b6a09596793d78f5d61abcc5935b6e86671f598cb8e5e8",
+      "title": "Freestyle 5\" Karate Style",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "karate",
+        "6S",
+        "5 inch",
+        "5\"",
+        "sugarK",
+        "limon",
+        "ctzsnooze",
+        "karateBrot",
+        "freestyle"
+      ],
+      "author": "sugarK",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.5/tune/karate/karate_race.txt",
+      "hash": "da3e42b8ccd5d387a73c15a6240e08166129d892ef0f3bde64a2da57e555bfa7",
+      "title": "Karate Race 6s 5\"",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "karate",
+        "6S",
+        "race",
+        "world champion",
+        "5 inch",
+        "5\"",
+        "sugarK",
+        "limon",
+        "ctzsnooze",
+        "KarateBrot"
+      ],
+      "author": "sugarK",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.5/tune/karate/karate_race_lite.txt",
+      "hash": "e76c1042bacd8a30db552bc8729a685d258d6ae2d33b4ca8d09727b6de7b3121",
+      "title": "Karate 'Viper Lite' Race  5\"",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "karate",
+        "race",
+        "5 inch",
+        "5\"",
+        "sugarK",
+        "limon",
+        "ctzsnooze",
+        "KarateBrot",
+        "ultralite",
+        "viper",
+        "viper lite",
+        "sliders"
+      ],
+      "author": "sugarK",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.5/tune/karate/karate_thicc.txt",
+      "hash": "901d64ad561d0050c36e72b229bdb9dae0a36c117f689069cf5fb4a3ba5542c0",
+      "title": "Karate 'THICC' ranger  7\"",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "karate",
+        "ranging",
+        "7 inch",
+        "7\"",
+        "sugarK",
+        "KarateBrot",
+        "thicc",
+        "loRanger",
+        "sliders"
+      ],
+      "author": "sugarK",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.5/tune/karate/tiny_karate.txt",
+      "hash": "dc9a399d2d11aed612690fe3ffb7c999d9732e0f58653770a1d66474f500500d",
+      "title": "533 TinyTrainer “spec” Karate",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "karate",
+        "race",
+        "533",
+        "3 inch",
+        "3\"",
+        "sugarK",
+        "shames",
+        "tiny",
+        "trainer",
+        "spec",
+        "tinyTrainer"
+      ],
+      "author": "sugarK",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/HDZero.txt",
+      "hash": "9050972b8402eddb537077960adba66b448d73d040a9c52e4b1b9867fba234b9",
+      "title": "HDZero VTXs",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "HDzero",
+        "divimath",
+        "SA 2.1",
+        "digital",
+        "whoop",
+        "whoop lite",
+        "race v1",
+        "race v2",
+        "freestyle",
+        "tx5m.1",
+        "MSP VTX"
+      ],
+      "author": "sugarK",
+      "force_options_review": true,
       "priority": 1000000
     }
   ]
